@@ -36,9 +36,9 @@ Open `index.html` in your browser to view the Internship Application Form.
 - Basic web page development
 
 ## 👩‍💻 Author
-**Archana Jeon**
+**SARANYA**
 
-B.Tech Artificial Intelligence and Data Science
+B.E COMPUTER SCIENCE AND ENGINEERING
 
 Learning Web Development and Frontend Technologies.
 
